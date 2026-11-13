@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cyberdesigner89-dev.github.io/sivari-gartenbau.de/sitemap.xml

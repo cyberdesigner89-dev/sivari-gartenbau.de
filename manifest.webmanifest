@@ -1,0 +1,16 @@
+{
+  "name": "Sivari Gartenbau – Pflanzen, pflegen, bauen.",
+  "short_name": "Sivari",
+  "description": "Garten- und Landschaftsbau in Langenfeld für Privatkunden, Gewerbe und öffentliche Auftraggeber.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDE6D8",
+  "theme_color": "#0F2A1D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
